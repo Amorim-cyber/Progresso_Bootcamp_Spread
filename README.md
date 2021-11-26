@@ -19,7 +19,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td>Dominando IDEs Java :heavy_check_mark:</td>
   </tr>
   <tr>
-    <td>Variáveis, Tipos de Dados e Operadores Matemáticos em Java</td>
+    <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/Vari%C3%A1veis%2C%20Tipos%20de%20Dados%20e%20Operadores%20Matem%C3%A1ticos%20em%20Java">Variáveis, Tipos de Dados e Operadores Matemáticos em Java</a> :heavy_check_mark:</td>
     <td>Lógica Condicional e Controle de Fluxos em Java</td>
     <td>Estruturas de Repetição e Arrays em Java</td>
     <td>Reforçando o Conceito de Laços em Java</td>
@@ -57,6 +57,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td>Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread</td>
   </tr>
 </table>
+
 
 
 ### Forte Abraço !

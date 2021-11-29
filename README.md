@@ -20,7 +20,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
   </tr>
   <tr>
     <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/Vari%C3%A1veis%2C%20Tipos%20de%20Dados%20e%20Operadores%20Matem%C3%A1ticos%20em%20Java">Variáveis, Tipos de Dados e Operadores Matemáticos em Java</a> :heavy_check_mark:</td>
-    <td>Lógica Condicional e Controle de Fluxos em Java</td>
+    <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java">Lógica Condicional e Controle de Fluxos em Java</a> :heavy_check_mark:</td>
     <td>Estruturas de Repetição e Arrays em Java</td>
     <td>Reforçando o Conceito de Laços em Java</td>
     <td>Mentoria #4: Como resolver os desafios de código</td>
@@ -60,4 +60,6 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
 
 
 
+
 ### Forte Abraço !
+

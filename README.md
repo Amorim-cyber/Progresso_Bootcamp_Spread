@@ -27,7 +27,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
   </tr>
   <tr>
     <td>Resolvendo Desafios de Código em Java :heavy_check_mark:</td>
-    <td>Desafios Java Developer</td>
+    <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/Desafio%20Java%20Developer">Desafios Java Developer</a> :heavy_check_mark:</td>
     <td>Estrutura de dados em Java :heavy_check_mark:</td>
     <td>Trabalhando com Collections Java :heavy_check_mark:</td>
     <td>Introdução a orientação a objetos com Java :heavy_check_mark:</td>
@@ -57,6 +57,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td>Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread</td>
   </tr>
 </table>
+
 
 
 

@@ -15,7 +15,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td>Introdução ao Git e ao GitHub :heavy_check_mark:</td>
     <td> <a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/blob/main/Criando%20seu%20Primeiro%20Reposit%C3%B3rio%20no%20GitHub%20Para%20Compartilhar%20Seu%20Progresso/anota%C3%A7%C3%B5es.md">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</a> :heavy_check_mark:</td>
     <td> <a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/blob/main/Mentoria%20%232%20Como%20ser%20o%20pr%C3%B3ximo%20contratado%20da%20Spread/anota%C3%A7%C3%B5es.md">Mentoria #2: Como ser o próximo contratado da Spread</a> :heavy_check_mark:</td>
-    <td>Mentoria #3: Start coding - Java Essencials 1 </td>
+    <td>Mentoria #3: Start coding - Java Essencials 1 :heavy_check_mark:</td>
     <td>Dominando IDEs Java :heavy_check_mark:</td>
   </tr>
   <tr>

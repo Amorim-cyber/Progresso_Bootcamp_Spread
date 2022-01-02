@@ -23,7 +23,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java">Lógica Condicional e Controle de Fluxos em Java</a> :heavy_check_mark:</td>
     <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java" >Estruturas de Repetição e Arrays em Java</a> :heavy_check_mark:</td>
     <td><a href="https://github.com/Amorim-cyber/Progresso_Bootcamp_Spread/tree/main/Refor%C3%A7ando%20o%20conceito%20de%20la%C3%A7os%20em%20java">Reforçando o Conceito de Laços em Java</a> :heavy_check_mark:</td>
-    <td>Mentoria #4: Como resolver os desafios de código</td>
+    <td>Mentoria #4: Como resolver os desafios de código :heavy_check_mark:</td>
   </tr>
   <tr>
     <td>Resolvendo Desafios de Código em Java :heavy_check_mark:</td>

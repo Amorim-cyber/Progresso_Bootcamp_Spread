@@ -37,7 +37,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td>SQL SERVER - Criando suas primeiras consultas</td>
     <td>Modelando um banco de dados na prática com SQL SERVER</td>
     <td>SQL Server: Boas práticas em bancos relacionais</td>
-    <td>Mentoria #5:  ORACLE DATABASE - Diferenciais</td>
+    <td>Mentoria #5:  ORACLE DATABASE - Diferenciais :heavy_check_mark:</td>
   </tr>
   <tr>
     <td>Introdução a APIs e métodos HTTP</td>
@@ -57,6 +57,7 @@ Segue tabela das atividades concluidas e a serem vistas neste Bootcamp:
     <td>Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread</td>
   </tr>
 </table>
+
 
 
 
